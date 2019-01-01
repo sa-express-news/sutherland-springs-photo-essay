@@ -46,9 +46,10 @@
 	    	font-weight: 100;
 	    	margin: 1rem 0.6rem 1rem;
 	    	font-family: $base-serif-title;
+	    	line-height: 1.1;
 
 	    	@include mediaquery($default-tablet) {
-	    		font-size: 54px;
+	    		font-size: 48px;
 	    		margin: 0.1em 0.6em 0.2em;
 	    	}
 		}
